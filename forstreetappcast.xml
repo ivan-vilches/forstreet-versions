@@ -5,11 +5,11 @@
     <item>
       <title>Version 1.0.1</title>
       <description>Mejoras en las notificaciones</description>
-      <pubDate>Mar, 12 Sep 2023"</pubDate>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=cl.forstreet.video"
                  sparkle:version="2"
                  sparkle:shortVersionString="1.0.1"
-                 type="application/octet-stream" />
+                 type="application/vnd.android.package-archive" />
     </item>
   </channel>
 </rss>
