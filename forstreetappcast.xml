@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>For Street Updates</title>
+    <item>
+      <title>Version 1.0.1</title>
+      <description>Mejoras en las notificaciones</description>
+      <pubDate>Mar, 12 Sep 2023"</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=cl.forstreet.video"
+                 sparkle:version="2"
+                 sparkle:shortVersionString="1.0.1"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
